@@ -14,8 +14,7 @@
 # limitations under the License.
 #
 
-PRODUCT_MAKEFILES := $(LOCAL_DIR)/omni_equuleus.mk
+PRODUCT_MAKEFILES := $(LOCAL_DIR)/twrp_equuleus.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_equuleus-userdebug \
-    omni_equuleus-eng
+    twrp_equuleus-eng
